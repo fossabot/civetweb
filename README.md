@@ -106,6 +106,9 @@ simplicity by a carefully selected list of features:
 - Websocket client functionality available (WS/WSS).
 
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flazar-hbi%2Fcivetweb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flazar-hbi%2Fcivetweb?ref=badge_large)
+
 ### Optionally included software
 
 [![Lua](/resources/lua-logo.jpg "Lua Logo")](https://lua.org)
@@ -114,6 +117,7 @@ simplicity by a carefully selected list of features:
 [![Sqlite3](/resources/sqlite3-logo.jpg "Sqlite3 Logo")](https://sqlite.org)
 [![LuaXML](/resources/luaxml-logo.jpg "LuaXML Logo")](https://github.com/n1tehawk/LuaXML)
 [![Duktape](/resources/duktape-logo.png "Duktape Logo")](https://duktape.org)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flazar-hbi%2Fcivetweb.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flazar-hbi%2Fcivetweb?ref=badge_shield)
 
 
 ### Optional dependencies
